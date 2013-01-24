@@ -1,4 +1,4 @@
 reflections
 ===========
 
-«Wet floor» effect for images
+«Wet floor» effect for images.
